@@ -1,0 +1,38 @@
+.Outter-Box {
+    background-color: #27374D;
+    padding: 0 2em 0 2em;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+Table {
+    margin: 0 2em 0 2em;
+    background-color: #27374D !important;
+}
+
+div > img {
+    width: 5em;
+}
+
+.React-logo {
+    /* height: 40vmin; */
+    pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+    .React-logo {
+        animation: React-logo-spin infinite 20s linear;
+    }
+}
+
+@keyframes React-logo-spin {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}

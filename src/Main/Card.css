@@ -1,0 +1,33 @@
+.Outter-Box {
+    background-color: #27374D;
+    padding: 0 2em 0 2em;
+}
+
+.Row {
+    margin: .5em 0 .5em 0;
+}
+
+.Col {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Project-Pictures {
+}
+
+.Card-Box {
+    width: 18rem;
+    background-color: #DDE6ED;
+}
+
+.Card-Body {
+}
+
+.Card-Title {
+    color: #27374D;
+}
+
+.Card-Text {
+    color: #526D82;
+}

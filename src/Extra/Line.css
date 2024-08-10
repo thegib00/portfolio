@@ -1,0 +1,17 @@
+.outter-box {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    background-color: #27374D;
+}
+
+.stylish-line {
+    width: 80%;
+    height: 5px;
+    background: linear-gradient(to right, #526D82, #DDE6ED);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+
+    margin: 1em 0 1em 0;
+
+}
